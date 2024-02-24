@@ -6,9 +6,14 @@ Welcome to Vogue Vista, an innovative E-commerce platform developed using the ME
 
 ![image](https://github.com/piyush-kumar-agarwal/Ecommerse_Client/assets/91564225/0dadb4e9-5de5-4031-8711-0f05233ba7d1)
 
-## Products Page
+## Products Shoes Page
 
 ![image](https://github.com/piyush-kumar-agarwal/Ecommerse_Client/assets/91564225/99da5f82-6f9f-45cf-a340-9c3b8d5d4ab2)
+
+## Products Dresses Page
+
+![image](https://github.com/piyush-kumar-agarwal/Ecommerse_Client/assets/91564225/4b71e0c0-7dbc-455f-8f52-b1e4366b4077)
+
 
 
 ## Features
